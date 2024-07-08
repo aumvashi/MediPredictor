@@ -8,10 +8,7 @@
 3. [Process Flow](#process-flow)
 4. [Architecture Diagram](#architecture-diagram)
 5. [Technologies Used](#technologies-used)
-6. [Installation and Setup](#installation-and-setup)
-7. [How to Run](#how-to-run)
-8. [Contributing](#contributing)
-9. [License](#license)
+6. [Prerequisites](#prereguisites)
 
 ## Unique Idea Brief (Solution)
 MediPredictor aims to provide an accessible and reliable way for individuals to get preliminary assessments for serious health conditions using advanced machine learning models. This solution bridges the gap between patients and medical professionals by providing initial screening results that can prompt further medical consultation.
