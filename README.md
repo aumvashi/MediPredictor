@@ -47,5 +47,4 @@ MediPredictor aims to provide an accessible and reliable way for individuals to 
 - Python 3.x installed on your system.
 - Virtual environment setup (optional but recommended).
 
-### Implementation
 
