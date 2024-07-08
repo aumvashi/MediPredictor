@@ -1,0 +1,1 @@
+streamlit run "C:\Users\aumva\OneDrive\Desktop\Prediction\main.py"
