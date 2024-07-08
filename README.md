@@ -32,7 +32,8 @@ MediPredictor aims to provide an accessible and reliable way for individuals to 
 6. **Admin Access**: Admins log in to view user details and manage the system.
 
 ## Architecture Diagram
-[Include your architecture diagram here]
+<img width="520" alt="System Architecture" src="https://github.com/aumvashi/MediPredictor/assets/165994662/f97da9ad-2b34-477f-a879-b2d73cfb2bc0">
+
 
 ## Technologies Used
 - **Streamlit**: Front-end framework for creating the web interface.
@@ -41,15 +42,10 @@ MediPredictor aims to provide an accessible and reliable way for individuals to 
 - **Machine Learning Models**: Pre-trained models for predicting diabetes, heart disease, and Parkinson's disease.
 - **Python**: Main programming language used for development.
 
-## Installation and Setup
-Follow these steps to set up MediPredictor on your local machine:
 
 ### Prerequisites
 - Python 3.x installed on your system.
 - Virtual environment setup (optional but recommended).
 
-### Steps
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/MediPredictor.git
-   cd MediPredictor
+### Implementation
+
